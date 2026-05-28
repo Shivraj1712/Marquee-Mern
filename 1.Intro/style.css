@@ -1,0 +1,12 @@
+#work {
+    height:auto;
+    background-color: aqua;
+    width: 90%;
+    border: 4px;
+    padding: 20px;
+    border: 10px solid;
+    border-top-color: red;
+    border-left-color: blue ;
+    border-bottom-color: darkblue;
+    border-right-color: yellow;
+}
